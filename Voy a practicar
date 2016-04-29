@@ -7,11 +7,11 @@ K1051 Jimena Míguez
 
 int main () {
 	
-	int i= 0;
+	int j= 0;
 	
 	Paso2:std::cout << "Voy a practicar programacion \n";
-		i= i+1;
-		if (i != 200) { goto Paso2;
+		j= j+1;
+		if (j != 200) { goto Paso2;
 		}
 	
 }
