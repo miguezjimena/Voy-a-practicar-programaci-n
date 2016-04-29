@@ -1,0 +1,17 @@
+/* Voy a practicar programación V1
+K1051 Jimena Míguez
+28/04/2016
+*/
+
+#include <iostream>
+
+int main () {
+	
+	int i= 0;
+	
+	Paso2:std::cout << "Voy a practicar programacion \n";
+		i= i+1;
+		if (i != 200) { goto Paso2;
+		}
+	
+}
